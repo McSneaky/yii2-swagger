@@ -12,8 +12,8 @@
   ],
   "require": {
     "yiisoft/yii2": "^2.0.0",
-    "zircote/swagger-php": "^2.0",
-    "bower-asset/swagger-ui": "2.2.10"
+    "zircote/swagger-php": "3.x-dev",
+    "bower-asset/swagger-ui": "~3.4"
   },
   "minimum-stability": "dev",
   "autoload": {
